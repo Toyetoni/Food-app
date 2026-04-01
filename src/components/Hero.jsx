@@ -10,7 +10,7 @@ const Hero = () => {
         <h1 className='px-4 text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold'>
           The
 
-           <span className='text-orange-500'>
+           <span className='text-orange-3500'>
             Best
             </span>
             
