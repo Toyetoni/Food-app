@@ -55,7 +55,7 @@ const[nav, setNav] = useState(false)
 {/* sidebar */}
 
 <div className={nav ? 'bg-white fixed top-0 left-0 w-[300px] h-screen bg-white duration -300 z-10':
-  "fixed top-0 left-[-100%] w-[300px] h-screen bg-white duration -300 z-10"}>
+  "fixed top-0 left-[-100%] w-[300px] h-screen bg-white duration-300 z-10"}>
 
     <AiOutlineClose onClick ={()=> setNav(!nav)}
     size={30}
